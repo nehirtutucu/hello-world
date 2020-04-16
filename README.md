@@ -1,4 +1,4 @@
 # hello-world
 kite
 
-Hello world. ı have no idea what ı am doing.
+Hello world. I have no idea what I am doing.
